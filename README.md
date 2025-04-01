@@ -1,2 +1,1 @@
-# dndcurses
-Drag and Drop Curses Creator
+This is the beginning of a visual ncurses creator using python3
